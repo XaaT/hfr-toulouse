@@ -1,7 +1,9 @@
 # hfr-toulouse
 FP du Topic HFR Toulouse
+
 ### Post 1 (FP)
 Premier post du topic avec recherche par tag et sommaire
+
 ### Post 2
 * 01. Toulouse, la ville rose.
 * 02. Liens
@@ -15,6 +17,7 @@ Premier post du topic avec recherche par tag et sommaire
 * 08. Événements & Sorties & Concerts & Festivals
 * 09. Quartier & logements
 * 10. Universités
+
 ### Post 3
 * 11. Sport - Structures & équipements sportifs
 * 12. Vie associative

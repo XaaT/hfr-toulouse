@@ -1,7 +1,7 @@
 Bienvenue sur le topic [b]• Toulouse • da P!nk city •[/b] :hello:
 Pour mettre à jour la FP, [url=http://forum.hardware.fr/message.php?config=hfr.inc&cat=prive&sond=&p=1&subcat=&dest=XaTriX&subcatgroup=0]veuillez m'envoyer un MP[/url] ou [url=https://github.com/XaaT/hfr-toulouse]participez sur github[/url] :D
 
-[fixed]# Tags #[/fixed]
+[fixed]Tags[/fixed]
 [b]Rechercher par tag[/b]
 [url=http://forum.hardware.fr/forum2.php?post=18045&cat=13&config=hfr.inc&cache=&page=1&sondage=0&owntopic=0&word=TAGRESTO&spseudo=&firstnum=1183714&currentnum=0&filter=1]Depuis le début[/url] • [url=http://forum.hardware.fr/forum2.php?post=18045&cat=13&config=hfr.inc&cache=&page=1&sondage=0&owntopic=0&word=TAGRESTO&spseudo=&firstnum=40521361&currentnum=0&filter=1]2015[/url] • [url=http://forum.hardware.fr/forum2.php?post=18045&cat=13&config=hfr.inc&cache=&page=1&sondage=0&owntopic=0&word=TAGRESTO&spseudo=&firstnum=44307617&currentnum=0&filter=1]2016[/url] Restaurants : [b]tagresto[/b]
 [url=http://forum.hardware.fr/forum2.php?post=18045&cat=13&config=hfr.inc&cache=&page=1&sondage=0&owntopic=0&word=tagfastfood&spseudo=&firstnum=1183714&currentnum=0&filter=1]Depuis le début[/url] • [url=http://forum.hardware.fr/forum2.php?post=18045&cat=13&config=hfr.inc&cache=&page=1&sondage=0&owntopic=0&word=tagfastfood&spseudo=&firstnum=40521361&currentnum=0&filter=1]2015[/url] • [url=http://forum.hardware.fr/forum2.php?post=18045&cat=13&config=hfr.inc&cache=&page=1&sondage=0&owntopic=0&word=tagfastfood&spseudo=&firstnum=44307617&currentnum=0&filter=1]2016[/url] Restauration rapide (burgers, kebab, pizza, etc) : [b]tagfastfood [/b]
@@ -11,7 +11,7 @@ Pour mettre à jour la FP, [url=http://forum.hardware.fr/message.php?config=hfr.i
 [url=http://forum.hardware.fr/forum2.php?post=18045&cat=13&config=hfr.inc&cache=&page=1&sondage=0&owntopic=0&word=tagcr&spseudo=&firstnum=1183714&currentnum=0&filter=1]Depuis le début[/url] • [url=http://forum.hardware.fr/forum2.php?post=18045&cat=13&config=hfr.inc&cache=&page=1&sondage=0&owntopic=0&word=tagcr&spseudo=&firstnum=40521361&currentnum=0&filter=1]2015[/url] • [url=http://forum.hardware.fr/forum2.php?post=18045&cat=13&config=hfr.inc&cache=&page=1&sondage=0&owntopic=0&word=tagcr&spseudo=&firstnum=44307617&currentnum=0&filter=1]2016[/url] Compte rendu divers : [b]tagcr[/b]
 [url=http://forum.hardware.fr/forum2.php?post=18045&cat=13&config=hfr.inc&cache=&page=1&sondage=0&owntopic=0&word=tagbaignade&spseudo=&firstnum=1183714&currentnum=0&filter=1]Depuis le début[/url] • [url=http://forum.hardware.fr/forum2.php?post=18045&cat=13&config=hfr.inc&cache=&page=1&sondage=0&owntopic=0&word=tagbaignade&spseudo=&firstnum=40521361&currentnum=0&filter=1]2015[/url] • [url=http://forum.hardware.fr/forum2.php?post=18045&cat=13&config=hfr.inc&cache=&page=1&sondage=0&owntopic=0&word=tagbaignade&spseudo=&firstnum=44307617&currentnum=0&filter=1]2016[/url] Baignade : [b]tagbaignade[/b]
 
-[fixed]### SOMMAIRE ###[/fixed][*][b]01.[/b] Toulouse, la ville rose.
+[fixed]Sommaire[/fixed][*][b]01.[/b] Toulouse, la ville rose
 [*][b]02.[/b] Liens
             [b]a.[/b] IntraHFR
            [b]b.[/b] ExtraHFR

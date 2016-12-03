@@ -1,80 +1,80 @@
-[fixed]14. Marchés[/fixed]
-[b]Marchés récurrents[/b]
-[i]Ouverts tous les jours, sauf le lundi, de 6 h à 13 h[/i]
+ï»¿[fixed]14. MarchÃ©s[/fixed]
+[b]MarchÃ©s rÃ©currents[/b]
+[i]Ouverts tous les jours, sauf le lundi, de 6 h Ã  13 h[/i]
 [*]Carmes (50 exposants)
 [*]Victor-Hugo (100 exposants)
 [*]Saint-Cyprien (35 exposants)
 
-[b]Marchés de plein vent - Alimentaires et forains[/b]
-[i]Tous les jours, sauf le lundi, de 6 h à 13 h[/i]
-[*]Marché du Cristal-Palace (uniquement alimentaire)
-[*]Marché du boulevard de Strasbourg (uniquement forains, ouvert le lundi toute la journée)
-[*]Marché du Capitole (le mardi et le samedi, biologique. Mercredi de 8 h à 18 h, forains, pas de marché le dimanche)
-[*]Marché de la Place Saint-Georges (tous les jours, sauf le dimanche et lundi)
-[*]Marché Arnaud-Bernard (alimentaire tous les jours, bouquinistes le jeudi)
-[*]Marché de la Place du Marché aux Cochons (le jeudi, volaille)
+[b]MarchÃ©s de plein vent - Alimentaires et forains[/b]
+[i]Tous les jours, sauf le lundi, de 6 h Ã  13 h[/i]
+[*]MarchÃ© du Cristal-Palace (uniquement alimentaire)
+[*]MarchÃ© du boulevard de Strasbourg (uniquement forains, ouvert le lundi toute la journÃ©e)
+[*]MarchÃ© du Capitole (le mardi et le samedi, biologique. Mercredi de 8 h Ã  18 h, forains, pas de marchÃ© le dimanche)
+[*]MarchÃ© de la Place Saint-Georges (tous les jours, sauf le dimanche et lundi)
+[*]MarchÃ© Arnaud-Bernard (alimentaire tous les jours, bouquinistes le jeudi)
+[*]MarchÃ© de la Place du MarchÃ© aux Cochons (le jeudi, volaille)
 
 [b]Hebdomadaires[/b]
-[*]Marché de la place du Ravelin (vendredi, volaille, petits producteurs et alimentaires)
-[*]Marché de la place Saint-Aubin (dimanche, volaille, producteurs, alimentaires et forains)
-[*]Rue Gatien Arnoult-Arnaud-Bernard (dimanche, herbes aromatiques fraîches)
-[*]Marché de Croix-Daurade (jeudi, alimentaires, primeurs, petits producteurs, forains)
-[*]Marché des Izards, place Micouleau (mercredi, alimentaires, primeurs, forains)
+[*]MarchÃ© de la place du Ravelin (vendredi, volaille, petits producteurs et alimentaires)
+[*]MarchÃ© de la place Saint-Aubin (dimanche, volaille, producteurs, alimentaires et forains)
+[*]Rue Gatien Arnoult-Arnaud-Bernard (dimanche, herbes aromatiques fraÃ®ches)
+[*]MarchÃ© de Croix-Daurade (jeudi, alimentaires, primeurs, petits producteurs, forains)
+[*]MarchÃ© des Izards, place Micouleau (mercredi, alimentaires, primeurs, forains)
 
-[*]Marché alimentaire de la place Belfort (jeudi 16h/20h - Fruits & légumes, Pommes issues de l’agriculture raisonnée, Miel, confiture, Jus de fruits artisanaux, Pains spéciaux, Pâtisserie, Viennoiserie, Producteur de viande du Gers (veau, porc, volaille), Poulets rôtis, Pizzas & Empanadas artisanales, Poissonnerie, Fromages artisanaux (au lait cru) et vendeurs saisonniers) 
+[*]MarchÃ© alimentaire de la place Belfort (jeudi 16h/20h - Fruits & lÃ©gumes, Pommes issues de lâ€™agriculture raisonnÃ©e, Miel, confiture, Jus de fruits artisanaux, Pains spÃ©ciaux, PÃ¢tisserie, Viennoiserie, Producteur de viande du Gers (veau, porc, volaille), Poulets rÃ´tis, Pizzas & Empanadas artisanales, Poissonnerie, Fromages artisanaux (au lait cru) et vendeurs saisonniers) 
 
-[b]Périodiques[/b]
-[*]Marché de Rangueuil (mercredi et dimanche)
-[*]Marché de la Faourette (mardi et vendredi, et le samedi, fripe)
-[*]Marché de Bellefontaine (mercredi)
-[*]Marché de la Reynerie (jeudi)
-[*]Marché de l’Ormeau (mardi et samedi)
-[*]Marché d' Empalot (mercredi)
-[*]Marché Ancely (vendredi de 12 h à 19 h)
-[*]Marché Saint-Simon (mercredi)
-[*]Marché des Pradettes (samedi, producteurs biologiques et alimentaires)
+[b]PÃ©riodiques[/b]
+[*]MarchÃ© de Rangueuil (mercredi et dimanche)
+[*]MarchÃ© de la Faourette (mardi et vendredi, et le samedi, fripe)
+[*]MarchÃ© de Bellefontaine (mercredi)
+[*]MarchÃ© de la Reynerie (jeudi)
+[*]MarchÃ© de lâ€™Ormeau (mardi et samedi)
+[*]MarchÃ© d' Empalot (mercredi)
+[*]MarchÃ© Ancely (vendredi de 12 h Ã  19 h)
+[*]MarchÃ© Saint-Simon (mercredi)
+[*]MarchÃ© des Pradettes (samedi, producteurs biologiques et alimentaires)
 [*]Place de la Croix de Pierre (mercredi et vendredi)
-[*]Marché de la Place Béteille (le samedi, volaille vivante, pas de marché le dimanche)
-[*]Marché du Salin (mardi et samedi, petits producteurs ; mercredi et vendredi du 1er octobre au 31 mars, volaille morte et marché au gras)
+[*]MarchÃ© de la Place BÃ©teille (le samedi, volaille vivante, pas de marchÃ© le dimanche)
+[*]MarchÃ© du Salin (mardi et samedi, petits producteurs ; mercredi et vendredi du 1er octobre au 31 mars, volaille morte et marchÃ© au gras)
 
-[b]Marché BIO[/b]
-[*]Marché bio de Pechabou: Tous les samedis matin: marché bio, un pôle Paniers sur abonnements, et des animations
+[b]MarchÃ© BIO[/b]
+[*]MarchÃ© bio de Pechabou: Tous les samedis matin: marchÃ© bio, un pÃ´le Paniers sur abonnements, et des animations
 Paniers sur Abonnement de produits issus de l'Agriculture Biologique
 Plus d'infos: http://pechaboutdenature.free.fr - Tel: 05-61-52-04-25
-[b]Marchés aux fleurs[/b]
-[*]Marché place Jeanne d’Arc
-[*]Marché de la Place du Capitole
-[*]Boulevard Armand-Duportal et abords des cimetières de la ville la semaine de la Toussaint (marchés réservés aux producteurs et destinés à la vente des chrysanthèmes)
-[b]Marchés à la brocante[/b]
-[*]Place Saint-Sernin (samedi, dimanche matin, démonstrateurs et forains)
-[*]Allées Jules-Guesde (premiers vendredi, samedi et dimanche de chaque mois)
-[b]Marché des papiers de collection et de jouets anciens[/b]
-[*]Autour du marché de Saint-Cyprien et de la Mairie Annexe (le 2e lundi de chaque mois)de 8h à 19h
-[*]Parvis de Saint-Aubin (tous les dimanches de 7h00 à 13h00 )
+[b]MarchÃ©s aux fleurs[/b]
+[*]MarchÃ© place Jeanne dâ€™Arc
+[*]MarchÃ© de la Place du Capitole
+[*]Boulevard Armand-Duportal et abords des cimetiÃ¨res de la ville la semaine de la Toussaint (marchÃ©s rÃ©servÃ©s aux producteurs et destinÃ©s Ã  la vente des chrysanthÃ¨mes)
+[b]MarchÃ©s Ã  la brocante[/b]
+[*]Place Saint-Sernin (samedi, dimanche matin, dÃ©monstrateurs et forains)
+[*]AllÃ©es Jules-Guesde (premiers vendredi, samedi et dimanche de chaque mois)
+[b]MarchÃ© des papiers de collection et de jouets anciens[/b]
+[*]Autour du marchÃ© de Saint-Cyprien et de la Mairie Annexe (le 2e lundi de chaque mois)de 8h Ã  19h
+[*]Parvis de Saint-Aubin (tous les dimanches de 7h00 Ã  13h00 )
 [b]Bouquinistes et artistes plasticiens[/b]
-[*]Marché de la Place Saint-Etienne (samedi de 9h30 à 18h)
-[*]Place Arnaud Bernard (le jeudi) Marché au gras la mi-novembre à la mi-mars de 6 h à 13 h
+[*]MarchÃ© de la Place Saint-Etienne (samedi de 9h30 Ã  18h)
+[*]Place Arnaud Bernard (le jeudi) MarchÃ© au gras la mi-novembre Ã  la mi-mars de 6 h Ã  13 h
 [*]Place du Parlement (tous les mercredis et vendredis)
-[b]Foires périodiques[/b]
-[*]Foire à l’ail, place du Parlement le 24 août et le 15 octobre de 6 h à 17 h
-[*]Place Saint-Sernin, Foire au salé, (le jeudi saint et le vendredi qui suit le 1er mai), place du Salin (le jour de la Saint-Jean, de 6 h à 16 h)
-[*]Place Saint-Cyprien, Marché aux vieux papiers (tous les lundis de 7h00 à 18h00, exposants professionnels)
+[b]Foires pÃ©riodiques[/b]
+[*]Foire Ã  lâ€™ail, place du Parlement le 24 aoÃ»t et le 15 octobre de 6 h Ã  17 h
+[*]Place Saint-Sernin, Foire au salÃ©, (le jeudi saint et le vendredi qui suit le 1er mai), place du Salin (le jour de la Saint-Jean, de 6 h Ã  16 h)
+[*]Place Saint-Cyprien, MarchÃ© aux vieux papiers (tous les lundis de 7h00 Ã  18h00, exposants professionnels)
 
 
 [fixed]15. Toulouse.fr, site officiel de la ville[/fixed]
 
-[fixed]16. Grandes lignes de transport & zones d'activités[/fixed]
+[fixed]16. Grandes lignes de transport & zones d'activitÃ©s[/fixed]
 [*][url=https://www.wikiwand.com/fr/LGV_Bordeaux_-_Toulouse]LGV Bordeaux-Toulouse[/url]
-Un projet de LGV (ligne à grande vitesse pour le TGV) est en cours pour un tracé Bordeaux - Toulouse. Bordeaux dont la livraison de la LGV-SudOuest ne devrait plus tarder. Mise en service aux alentours de 2025, ce qui coincidera avec la 3ème ligne de Métro et la mutation du quartier Marengo.
+Un projet de LGV (ligne Ã  grande vitesse pour le TGV) est en cours pour un tracÃ© Bordeaux - Toulouse. Bordeaux dont la livraison de la LGV-SudOuest ne devrait plus tarder. Mise en service aux alentours de 2025, ce qui coincidera avec la 3Ã¨me ligne de MÃ©tro et la mutation du quartier Marengo.
 [url=http://reho.st/fullsize/https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/France_TGV.png/800px-France_TGV.png?1480776351569][img]http://reho.st/https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/France_TGV.png/800px-France_TGV.png?1480776351569[/img][/url]
 
 [fixed]17. Kimouss & IRL HFRiennes[/fixed]
-Les organisations de sorties & kimouss se passent sur un topic dédié :
+Les organisations de sorties & kimouss se passent sur un topic dÃ©diÃ© :
 [*][url=http://forum.hardware.fr/forum2.php?config=hfr.inc&cat=13&subcat=434&post=93776&page=1&p=1&sondage=0&owntopic=1&trash=0&trash_post=0&print=0&numreponse=0&quote_only=0&new=0&nojs=0][b]Loisirs Toulousains[/b][/url]
 [*][url=http://forum.hardware.fr/hfr/Discussions/Viepratique/toulousains-paysannerie-environnante-sujet_104074_1.htm]Topic entraide entre Toulousains[/url]
 [*][url=http://forum.hardware.fr/hfr/Discussions/Auto-Moto/motards-toulouse-candie-sujet_95417_26.htm]Topic des motards Toulousains[/url]
 
 [fixed]18. Divers[/fixed]
-[*]Tauliers précédents : Stitch+ et Guyzang
+[*]Tauliers prÃ©cÃ©dents : Stitch+ et Guyzang
 [*][url=http://forum.hardware.fr/forum2.php?config=hfr.inc&cat=13&subcat=434&post=18045&page=992&p=1&sondage=0&owntopic=1&trash=0&trash_post=0&print=0&numreponse=0&quote_only=0&new=0&nojs=0#t19935243]Sauvegarde du premier post de Stitch+[/url]
 [*][url=http://forum.hardware.fr/message.php?config=hfr.inc&cat=prive&sond=&p=1&subcat=&dest=XaTriX&subcatgroup=0]Envoyer un MP au taulier[/url]

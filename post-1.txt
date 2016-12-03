@@ -12,9 +12,7 @@ Pour mettre à jour la FP, [url=http://forum.hardware.fr/message.php?config=hfr.
 [url=http://forum.hardware.fr/forum2.php?post=18045&cat=13&config=hfr.inc&cache=&page=1&sondage=0&owntopic=0&word=tagbaignade&spseudo=&firstnum=1183714&currentnum=0&filter=1]Depuis le début[/url] • [url=http://forum.hardware.fr/forum2.php?post=18045&cat=13&config=hfr.inc&cache=&page=1&sondage=0&owntopic=0&word=tagbaignade&spseudo=&firstnum=40521361&currentnum=0&filter=1]2015[/url] • [url=http://forum.hardware.fr/forum2.php?post=18045&cat=13&config=hfr.inc&cache=&page=1&sondage=0&owntopic=0&word=tagbaignade&spseudo=&firstnum=44307617&currentnum=0&filter=1]2016[/url] Baignade : [b]tagbaignade[/b]
 
 [fixed]Sommaire[/fixed][*][b]01.[/b] Toulouse, la ville rose
-[*][b]02.[/b] Liens
-            [b]a.[/b] IntraHFR
-           [b]b.[/b] ExtraHFR
+[*][b]02.[/b] Liens (IntraHFR & ExtraHFR)
 [*][b]03.[/b] Vivre à Toulouse
 [*][b]04.[/b] Transport en commun & covoiturage
 [*][b]05.[/b] Bars & Cafés & Pubs

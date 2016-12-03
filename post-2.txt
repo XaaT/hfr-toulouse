@@ -4,6 +4,7 @@
 [*][url=https://www.wikiwand.com/fr/Urbanisme_%C3%A0_Toulouse]Urbanisme à Toulouse sur Wikipedia[/url]
 [*][url=https://www.wikiwand.com/fr/Quartiers_de_Toulouse]Quartiers de Toulouse sur Wikipedia[/url]
 [*][url=https://fr.wikipedia.org/wiki/Cat%C3%A9gorie:Quartier_de_Toulouse]Quartiers de Toulouse (Catégorie) sur Wikipedia[/url]
+[*][url=http://www.archives.toulouse.fr/]Archives de Toulouse[/url]
 
 [fixed]02. Liens[/fixed]
 [#ff7100][b]a. IntraHFR[/b][/#ff7100]
@@ -129,3 +130,22 @@ N'oubliez pas d'utiliser d'insérer le tag associé ([b]tagresto[/b]) en début 
 [*][url=https://fr.wikipedia.org/wiki/Cat%C3%A9gorie:Quartier_de_Toulouse]Quartiers de Toulouse (Catégorie) sur Wikipedia[/url]
 
 [fixed]10. Universités[/fixed]
+Après la [url=https://www.wikiwand.com/fr/Loi_Faure]loi Faure[/url] de 1968, l'université de Toulouse se scinde en trois en 1969 :
+[*][url=https://www.wikiwand.com/fr/Universit%C3%A9_de_Toulouse_I][b]L'Université de Toulouse I - Capitole[/b][/url] (UT1 - Toulouse I), spécialisée dans les sciences sociales, le droit, l'économie et la gestion, et qui comprend 16 589 inscrits. À cette université est rattachée [url=https://www.wikiwand.com/fr/Institut_d%27%C3%A9tudes_politiques_de_Toulouse]l'Institut d’études politiques[/url], plus connu sous le nom de Sciences Po Toulouse, ainsi que [url=https://www.wikiwand.com/fr/Institut_d%27administration_des_entreprises]l'Institut d'administration des entreprises[/url] (IAE).
+[*][url=https://www.wikiwand.com/fr/Universit%C3%A9_de_Toulouse_II][b]L'Université de Toulouse II - Le Mirail[/b][/url] (UTM - Toulouse II) est spécialisée dans les sciences humaines, les disciplines artistiques et les disciplines littéraires. Elle comprend 24 786 étudiants.
+[*][url=https://www.wikiwand.com/fr/Universit%C3%A9_de_Toulouse_III][b]L'Université de Toulouse III - Paul-Sabatier[/b][/url] (UPS - Toulouse III) est spécialisée dans la médecine, la pharmacie, la chirurgie-dentaire et les sciences exactes. Il s'agit de la plus importante université de Toulouse avec 28 056 étudiants.
+
+À ces trois pôles s'ajoute [url=https://www.wikiwand.com/fr/Institut_national_polytechnique_de_Toulouse]l’Institut national polytechnique de Toulouse[/url] (INPT), créé en 1969, qui a le statut d'université. L'Institut regroupe sept grandes écoles d'ingénieurs :
+[*]l'École nationale supérieure d'électrotechnique, d'électronique, d'informatique, d'hydraulique et des télécommunications ([url=https://www.wikiwand.com/fr/%C3%89cole_nationale_sup%C3%A9rieure_d%27%C3%A9lectrotechnique,_d%27%C3%A9lectronique,_d%27informatique,_d%27hydraulique_et_des_t%C3%A9l%C3%A9communications]ENSEEIHT[/url]),
+[*]l'École nationale supérieure des ingénieurs en arts chimiques et technologiques ([url=https://www.wikiwand.com/fr/ENSIACET]ENSIACET[/url])
+[*]l'École nationale supérieure d'agronomie de Toulouse ([url=https://www.wikiwand.com/fr/ENSAT]ENSAT[/url]).
+[*]l'École nationale de la météorologie ([url=https://www.wikiwand.com/fr/ENM]ENM[/url])
+[*]l'École d'ingénieurs de Purpan ([url=https://www.wikiwand.com/fr/%C3%89cole_d%27ing%C3%A9nieurs_de_Purpan]EI PURPAN[/url])
+[*]l'École nationale d'ingénieurs de Tarbes ([url=https://www.wikiwand.com/fr/ENIT]ENIT[/url])
+[*]l'École nationale vétérinaire de Toulouse ([url=https://www.wikiwand.com/fr/ENVT]ENVT[/url])
+Ce pôle est complété par l'Institut national des sciences appliquées de Toulouse ([url=https://www.wikiwand.com/fr/Institut_national_des_sciences_appliqu%C3%A9es_de_Toulouse]INSA Toulouse[/url]).
+
+[*][url=https://www.wikiwand.com/fr/Universit%C3%A9_de_Toulouse_(ancienne)]Ancienne Université de Toulouse (1229-1968)[/url]
+[*][url=https://www.wikiwand.com/fr/Universit%C3%A9_f%C3%A9d%C3%A9rale_de_Toulouse-Midi-Pyr%C3%A9n%C3%A9es][b]Université Fédérale de Toulouse[/b][/url]
+[*][url=https://www.wikiwand.com/fr/Centre_hospitalier_universitaire_de_Toulouse#/Formation]Centre hospitalier universitaire de Tolouse (CHU)[/url]
+[*][url=http://plan.univ-toulouse.fr/]Plan étudiant (plan.univ-toulouse.fr)[/url]

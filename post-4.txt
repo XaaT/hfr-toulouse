@@ -69,12 +69,12 @@ Paniers sur Abonnement de produits issus de l'Agriculture Biologique
 [fixed]15. Toulouse.fr, site officiel de la ville[/fixed]
 
 [fixed]16. Grandes lignes de transport & zones d'activités[/fixed]
-[b]Rails :
+[b]Rails :[/b]
 [*][url=https://www.wikiwand.com/fr/LGV_Bordeaux_-_Toulouse]LGV Bordeaux-Toulouse[/url]
 Un projet de LGV (ligne à grande vitesse pour le TGV) est en cours pour un tracé Bordeaux - Toulouse. Bordeaux dont la livraison de la LGV-SudOuest ne devrait plus tarder. Mise en service aux alentours de 2025, ce qui coïncidera avec la 3ème ligne de Métro et la mutation du quartier Marengo.
 [url=http://reho.st/fullsize/https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/France_TGV.png/800px-France_TGV.png?1480776351569][img]http://reho.st/https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/France_TGV.png/800px-France_TGV.png?1480776351569[/img][/url]
 
-[b]Autoroutes :
+[b]Autoroutes :[/b]
 [url=http://reho.st/fullsize/https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/France_A6X_A61.svg/640px-France_A6X_A61.svg.png?1480802026113][img]http://reho.st/https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/France_A6X_A61.svg/640px-France_A6X_A61.svg.png?1480802026113[/img][/url]
 [*][url=https://www.wikiwand.com/fr/Autoroute_A61_(France)]A61 : De Toulouse à Narbonne[/url]
 [*][url=https://www.wikiwand.com/fr/Autoroute_A62_(France)]A62 : De Toulouse à Bordeaux[/url]
@@ -82,6 +82,9 @@ Un projet de LGV (ligne à grande vitesse pour le TGV) est en cours pour un trac
 [*][url=https://www.wikiwand.com/fr/Autoroute_A66_(France)]A66 : De Vieillevigne (proche Toulouse) à Pamiers[/url]
 [*][url=https://www.wikiwand.com/fr/Autoroute_A68_(France)]A68 : De Toulouse à Albi[/url]
 [*][url=https://www.wikiwand.com/fr/P%C3%A9riph%C3%A9rique_de_Toulouse]A620 Périphérique Toulousain[/url]
+
+[b]Bus :[/b]
+[b]Vélo :[/b]
 
 [fixed]17. Kimouss & IRL HFRiennes[/fixed]
 Les organisations de sorties & kimouss se passent sur un topic dédié :

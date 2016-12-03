@@ -6,7 +6,7 @@
 [*][url=https://fr.wikipedia.org/wiki/Cat%C3%A9gorie:Quartier_de_Toulouse]Quartiers de Toulouse (Catégorie) sur Wikipedia[/url]
 [*][url=http://www.archives.toulouse.fr/]Archives de Toulouse[/url]
 
-{*][url=http://www.archives.toulouse.fr/histoire-de-toulouse/patrimoine-urbain/plans-anciens]Plans Anciens (de 1493 à la fin du XVIIe)[/url]
+[*][url=http://www.archives.toulouse.fr/histoire-de-toulouse/patrimoine-urbain/plans-anciens]Plans Anciens (de 1493 à la fin du XVIIe)[/url]
 
 [fixed]02. Liens[/fixed]
 [#ff7100][b]a. IntraHFR[/b][/#ff7100]

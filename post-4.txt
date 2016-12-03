@@ -67,6 +67,7 @@ Paniers sur Abonnement de produits issus de l'Agriculture Biologique
 
 
 [fixed]15. Toulouse.fr, site officiel de la ville[/fixed]
+[img]http://reho.st/http://www.cultures.toulouse.fr/toulouseculture-theme/images/header/logo_mairie.jpg[/img]
 Mairie de Toulouse - 1 place du Capitole, 31000 Toulouse.
 [url=http://www.toulouse.fr/web/la-mairie/participation-citoyennete/mairies-de-quartier]Adresses des mairies de quartier[/url]
 Standard tous services, 7j/7 et 24h/24  : 05 61 22 29 22

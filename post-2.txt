@@ -6,6 +6,7 @@
 [*][url=https://fr.wikipedia.org/wiki/Cat%C3%A9gorie:Quartier_de_Toulouse]Quartiers de Toulouse (Catégorie) sur Wikipedia[/url]
 [*][url=http://www.archives.toulouse.fr/]Archives de Toulouse[/url]
 
+[*][url=http://pdi.cugt.org/map/?t=PDI][b]Plan intéractif de la ville[/b][/url]
 [*][url=http://www.archives.toulouse.fr/histoire-de-toulouse/patrimoine-urbain/plans-anciens]Plans Anciens (de 1493 à la fin du XVIIe)[/url]
 
 [fixed]02. Liens[/fixed]
@@ -21,8 +22,6 @@
 [*][[u]Emploi & Etudes[/u]] [url=http://forum.hardware.fr/hfr/EmploiEtudes/Etudes-Orientation/toulouse-concours-toulousaine-sujet_50133_1.htm]ESC Toulouse: l'école, le concours, la vie toulousaine[/url]
 [*][[u]Emploi & Etudes[/u]] [url=http://forum.hardware.fr/hfr/EmploiEtudes/Etudes-Orientation/topic-insa-bienvenue-sujet_6410_1.htm]Les INSA et leurs étudiants (dont Toulouse)[/url]
 
-
-
 [b]ExtraHFR[/b]
 [*][url=http://www.toulouse-tourisme.com]Office du tourisme[/url]
 [*][url=http://www.toulouse.fr][b]Toulouse.fr[/b], site officiel de la ville[/url]
@@ -33,11 +32,15 @@
 
 [fixed]03. Vivre à Toulouse[/fixed]
 [*][url=https://montoulouse.fr][b]montoulouse.fr[/b] Services en ligne de la Mairie de Toulouse[/url]
+[*][url=http://www.toulouse.fr/web/proprete-dechets/dechets]Comment gérer vos déchets sur Toulouse[/url] (collectes, tri, compostage, déchets verts, déchèteries, encombrants, collecte du verre)
+[*][url=http://www.toulouse.fr/documents/106895/7741669/Allo_Toulouse_205/e006b40f-8d8e-460f-94bf-d377a2fd907b]Allo Toulouse[/url]
+
 
 [fixed]04. Transport en commun & covoiturage[/fixed]
 Précédement gérés par SEMVAT, les TEC sont depuis 2002 gérés par Tisséo utilisant le Métro (ligne A et B), le train urbain (ligne C), le tramway (ligne T1 et T2) et le bus. Une troisième ligne de Métro [url=https://www.wikiwand.com/fr/Toulouse_Aerospace_Express]Toulouse Aerospace Express[/url]) est prévue pour ~2024.
 Depuis le 31 août 2009 le tarif jeunes (-26 ans) est à 10€ par mois ! A la fin 2016 les [url=http://www.tisseo.fr/les-tarifs/la-gamme]tarifs sont en évolution[/url].
 
+[*][[u]Tisséo[/u]] [url=http://www.tisseo.fr/plan-interactif/][b]Plan intéractif[/b][/url]
 [*][[u]Tisséo[/u]] [url=http://www.tisseo.fr/se-deplacer/plans]Plans du réseau (détaillé, soirée, Metro-Tram, schématiques)[/url]
 [*][[u]Tisséo[/u]] [url=http://www.tisseo.fr/se-deplacer/horaires]Ligne et horaires de bus[/url]
 [*][[u]Tisséo[/u]] [url=http://www.tisseo.fr/calculateur]Recherche d'itinéraires[/url]

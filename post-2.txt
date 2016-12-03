@@ -6,6 +6,8 @@
 [*][url=https://fr.wikipedia.org/wiki/Cat%C3%A9gorie:Quartier_de_Toulouse]Quartiers de Toulouse (Catégorie) sur Wikipedia[/url]
 [*][url=http://www.archives.toulouse.fr/]Archives de Toulouse[/url]
 
+{*][url=http://www.archives.toulouse.fr/histoire-de-toulouse/patrimoine-urbain/plans-anciens]Plans Anciens (de 1493 à la fin du XVIIe)[/url]
+
 [fixed]02. Liens[/fixed]
 [#ff7100][b]a. IntraHFR[/b][/#ff7100]
 [*][b][[u]Discussions[/u]] [url=http://goo.gl/iXG3i]Topic loisirs et rencontres Toulousains[/url][/b]
@@ -149,3 +151,4 @@ Ce pôle est complété par l'Institut national des sciences appliquées de Toul
 [*][url=https://www.wikiwand.com/fr/Universit%C3%A9_f%C3%A9d%C3%A9rale_de_Toulouse-Midi-Pyr%C3%A9n%C3%A9es][b]Université Fédérale de Toulouse[/b][/url]
 [*][url=https://www.wikiwand.com/fr/Centre_hospitalier_universitaire_de_Toulouse#/Formation]Centre hospitalier universitaire de Tolouse (CHU)[/url]
 [*][url=http://plan.univ-toulouse.fr/]Plan étudiant (plan.univ-toulouse.fr)[/url]
+[url=http://plan.univ-toulouse.fr/][img]http://i.imgur.com/y1ILwts.jpg[/img][/url]

@@ -1,6 +1,9 @@
 [fixed]01. Toulouse, la ville rose[/fixed]
 [*][b][url=https://fr.wikipedia.org/wiki/Toulouse]Toulouse sur Wikipedia[/url][/b]
 [*][url=http://wikitravel.org/fr/Toulouse]Toulouse sur WikiTravel[/url]
+[*][url=https://www.wikiwand.com/fr/Urbanisme_%C3%A0_Toulouse]Urbanisme à Toulouse sur Wikipedia[/url]
+[*][url=https://www.wikiwand.com/fr/Quartiers_de_Toulouse]Quartiers de Toulouse sur Wikipedia[/url]
+[*][url=https://fr.wikipedia.org/wiki/Cat%C3%A9gorie:Quartier_de_Toulouse]Quartiers de Toulouse (Catégorie) sur Wikipedia[/url]
 
 [fixed]02. Liens[/fixed]
 [#ff7100][b]a. IntraHFR[/b][/#ff7100]
@@ -121,5 +124,8 @@ N'oubliez pas d'utiliser d'insérer le tag associé ([b]tagresto[/b]) en début de 
 
 
 [fixed]09. Quartier & logements[/fixed]
+[*][url=https://www.wikiwand.com/fr/Urbanisme_%C3%A0_Toulouse]Urbanisme à Toulouse sur Wikipedia[/url]
+[*][url=https://www.wikiwand.com/fr/Quartiers_de_Toulouse]Quartiers de Toulouse sur Wikipedia[/url]
+[*][url=https://fr.wikipedia.org/wiki/Cat%C3%A9gorie:Quartier_de_Toulouse]Quartiers de Toulouse (Catégorie) sur Wikipedia[/url]
 
 [fixed]10. Universités[/fixed]

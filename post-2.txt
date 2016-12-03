@@ -32,7 +32,7 @@
 [*][url=http://www.toulouseblog.fr]Toulouseblog.fr (sorte de guide poubelle²)[/url]
 
 [fixed]03. Vivre à Toulouse[/fixed]
-[*][url=https://montoulouse.fr]mon.toulouse.fr Services en ligne de la Mairie de Toulouse[/url]
+[*][url=https://montoulouse.fr][b]montoulouse.fr[/b] Services en ligne de la Mairie de Toulouse[/url]
 
 [fixed]04. Transport en commun & covoiturage[/fixed]
 Précédement gérés par SEMVAT, les TEC sont depuis 2002 gérés par Tisséo utilisant le Métro (ligne A et B), le train urbain (ligne C), le tramway (ligne T1 et T2) et le bus. Une troisième ligne de Métro [url=https://www.wikiwand.com/fr/Toulouse_Aerospace_Express]Toulouse Aerospace Express[/url]) est prévue pour ~2024.

@@ -9,7 +9,7 @@
 [*][url=http://www.archives.toulouse.fr/histoire-de-toulouse/patrimoine-urbain/plans-anciens]Plans Anciens (de 1493 à la fin du XVIIe)[/url]
 
 [fixed]02. Liens[/fixed]
-[#ff7100][b]a. IntraHFR[/b][/#ff7100]
+[b]IntraHFR[/b]
 [*][b][[u]Discussions[/u]] [url=http://goo.gl/iXG3i]Topic loisirs et rencontres Toulousains[/url][/b]
 [*][b][[u]Discussions[/u]] [url=http://forum.hardware.fr/hfr/Discussions/Viepratique/toulousains-paysannerie-environnante-sujet_104074_1.htm]Entraide entre toulousains (et paysannerie environnante :o)[/url][/b]
 [*][[u]Discussions[/u]] [url=http://forum.hardware.fr/hfr/Discussions/Auto-Moto/motards-toulouse-incoming-sujet_95417_26.htm]Motards toulousaings ![/url]
@@ -23,7 +23,7 @@
 
 
 
-[#ff7100][b]b. ExtraHFR[/b][/#ff7100]
+[b]ExtraHFR[/b]
 [*][url=http://www.toulouse-tourisme.com]Office du tourisme[/url]
 [*][url=http://www.toulouse.fr][b]Toulouse.fr[/b], site officiel de la ville[/url]
 [*][url=http://fr.wikipedia.org/wiki/Toulouse]Toulouse sur Wikipédia[/url]
@@ -32,7 +32,7 @@
 [*][url=http://www.toulouseblog.fr]Toulouseblog.fr (sorte de guide poubelle²)[/url]
 
 [fixed]03. Vivre à Toulouse[/fixed]
-Qu'est-ce que je vais bien pouvoir foutre dans cette catégorie ?
+[*][url=https://montoulouse.fr]mon.toulouse.fr Services en ligne de la Mairie de Toulouse[/url]
 
 [fixed]04. Transport en commun & covoiturage[/fixed]
 Précédement gérés par SEMVAT, les TEC sont depuis 2002 gérés par Tisséo utilisant le Métro (ligne A et B), le train urbain (ligne C), le tramway (ligne T1 et T2) et le bus. Une troisième ligne de Métro [url=https://www.wikiwand.com/fr/Toulouse_Aerospace_Express]Toulouse Aerospace Express[/url]) est prévue pour ~2024.

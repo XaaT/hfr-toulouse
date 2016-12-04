@@ -8,6 +8,11 @@
 
 [*][url=http://pdi.cugt.org/map/?t=PDI][b]Plan intéractif de la ville[/b][/url]
 [*][url=http://www.archives.toulouse.fr/histoire-de-toulouse/patrimoine-urbain/plans-anciens]Plans Anciens (de 1493 à la fin du XVIIe)[/url]
+[*][url=http://www.toulouse.fr/web/publications/a-toulouse]Magazine [b]à Toulouse[/b][/url]
+[*][url=http://www.toulouse.fr/web/publications/a-toulouse/hors-series]Hors séries du magazine[/url]
+[*]Hors-série Histoire
+[url=http://documents.toulouse.fr/AToulouse/atoulouse_horserie_novembre2014/appli.htm][img]http://reho.st/http://www.toulouse.fr/documents/106907/4580988/UneAtoulouseHosSeriePatrimoineNovembre2014.jpg/01ae25dc-8013-404d-a680-3ae1331572fe[/img][/url]
+
 
 [fixed]02. Liens[/fixed]
 [b]IntraHFR[/b]
@@ -29,11 +34,13 @@
 [*][url=http://www.toulouse.aeroport.fr/]Aéroport de Blagnac[/url]
 [*][url=http://www.toulouseweb.com/]Toulouseweb.com (sorte de guide poubelle)[/url]
 [*][url=http://www.toulouseblog.fr]Toulouseblog.fr (sorte de guide poubelle²)[/url]
+[*][url=http://www.toulouse.fr/web/publications/a-toulouse]Magazine [b]à Toulouse[/b][/url]
 
 [fixed]03. Vivre à Toulouse[/fixed]
 [*][url=https://montoulouse.fr][b]montoulouse.fr[/b] Services en ligne de la Mairie de Toulouse[/url]
 [*][url=http://www.toulouse.fr/web/proprete-dechets/dechets]Comment gérer vos déchets sur Toulouse[/url] (collectes, tri, compostage, déchets verts, déchèteries, encombrants, collecte du verre)
 [*][url=http://www.toulouse.fr/documents/106895/7741669/Allo_Toulouse_205/e006b40f-8d8e-460f-94bf-d377a2fd907b]Allo Toulouse[/url]
+[*][url=http://www.toulouse.fr/web/publications/a-toulouse]Magazine [b]à Toulouse[/b][/url]
 
 
 [fixed]04. Transport en commun & covoiturage[/fixed]

@@ -18,7 +18,7 @@
 [b]IntraHFR[/b]
 [*][b][[u]Discussions[/u]] [url=http://goo.gl/iXG3i]Topic loisirs et rencontres Toulousains[/url][/b]
 [*][b][[u]Discussions[/u]] [url=http://forum.hardware.fr/hfr/Discussions/Viepratique/toulousains-paysannerie-environnante-sujet_104074_1.htm]Entraide entre toulousains (et paysannerie environnante :o)[/url][/b]
-[*][[u]Discussions[/u]] [url=http://forum.hardware.fr/hfr/Discussions/Auto-Moto/motards-toulouse-incoming-sujet_95417_26.htm]Motards toulousaings ![/url]
+[*][[u]Discussions[/u]] [url=http://forum.hardware.fr/hfr/Discussions/Auto-Moto/motards-toulouse-incoming-sujet_95417_26.htm]Motards de Toulouse[/url]
 [*][[u]Photo numérique[/u]] [url=http://forum.hardware.fr/forum2.php?config=hfr.inc&cat=14&subcat=457&post=1978&page=1&p=1&sondage=0&owntopic=1&trash=0&trash_post=0&print=0&numreponse=0&quote_only=0&new=0&nojs=0]Sorties photos et photos de Toulouse[/url]
 [*][[u]Jeux vidéos[/u]] [url=http://forum.hardware.fr/hfr/JeuxVideo/Achat-Ventes/ven-topic-toulouse-sujet_96379_1.htm]Achats, ventes, échanges sur Toulouse[/url]
 [*][b][[u]Achats & Ventes[/u]] [url=http://forum.hardware.fr/forum2.php?config=hfr.inc&cat=6&subcat=169&post=207665&page=1&p=1&sondage=0&owntopic=1&trash=0&trash_post=0&print=0&numreponse=0&quote_only=0&new=0&nojs=0]Achats, ventes, échanges sur Toulouse et sa région[/url][/b]
@@ -102,7 +102,7 @@ N'oubliez pas d'utiliser d'insérer le tag associé ([b]tagresto[/b]) en début 
 
 [fixed]08. Événements & Sorties & Concerts & Festivals[/fixed]
 [*][url=http://pastebin.com/EPUm1BWu]Merci de respecter cette mise en page pour citer des évènements dans le topoc[/url]
-[*][url=http://www.toulousexpo.com/1-38492-Agenda.php]L'agenda du Parc des Expositions[/url]
+[*][url=http://www.toulousexpo.com/fr/agenda-liste-paginee]L'agenda du Parc des Expositions[/url]
 [*][url=http://www.clutchmag.fr/][b]Clutch[/b], le mag culture, agenda sorties, art/expos à Toulouse. Liste qui se veut le plus exhaustive des concerts & co chaque mois ![/url]
 [*][url=http://www.cultures.toulouse.fr/agenda]L'agenda de cultures.toulouse.fr[/url]
 [*][url=http://www.routard.com/guide_agenda/midi_pyrenees.htm]Agenda Midi-Pyrénées du routard[/url]
